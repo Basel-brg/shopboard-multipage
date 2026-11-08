@@ -26,3 +26,11 @@ playwright-report/
 *.njsproj
 *.sln
 *.sw?
+
+# Local learning workspace files
+MISSION.md
+NOTES.md
+RESOURCES.md
+lessons/
+learning-records/
+assets/
